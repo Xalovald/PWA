@@ -1,0 +1,10 @@
+.pokemon-card-container {
+    display: flex;
+  justify-content: space-between;
+  }
+  
+  .pokemon-card {
+    flex-grow: 1;
+    height: 100%;
+    margin: 20px; /* Adjust the margin as needed */
+  }
