@@ -1,0 +1,6 @@
+{
+  "name": "Guilian Blog",
+  "short_name": "GuiBlog",
+  "start_url": "/",
+  "display": "standalone"
+}

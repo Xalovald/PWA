@@ -1,0 +1,14 @@
+{
+    "name": "Antho's Pokedex",
+    "short_name": "Pokedex",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "./icons/icon_144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "display": "standalone"
+}
